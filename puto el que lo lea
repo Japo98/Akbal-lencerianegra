@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web con Video</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px;}
+        h1 { color: #141212; }
+    </style>
+</head>
+<body>
+    <h1>puto el que lo lea</h1>
+    
+    <!-- Video -->
+    <video width="320" height="240" controls>
+        <source src="IMG_0250(1).MP4" type="video/mp4">
+        Tu navegador es gei.
+    </video>
+    
+    <p>somos amigos</p>
+</body>
+</html>
